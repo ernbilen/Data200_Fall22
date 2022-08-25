@@ -12,7 +12,7 @@
 
 ## Course description ##
 
-Welcome to Data 200! This course provides an introduction to the management and manipulation of database systems as it applies to data analytics. Topics include data query languages, relational databases, NoSQL data systems, APIs/Webscraping, transforming and restructuring data representations. Upon successful completion of the course a student will be able to
+Welcome to Data 200! This course provides an introduction to the management and manipulation of database systems as it applies to data analytics. Topics include data query languages, relational databases, NoSQL data systems, APIs/webscraping, transforming and restructuring data representations. Upon successful completion of the course a student will be able to
 * understand the tabular data model, the relational data model,and hierarchical data model
 * retrieve data using Structured Query Language (SQL)
 * understand the client-server model for communication
@@ -34,3 +34,8 @@ Take-home Final	   |   20   |	   20.0%   |
 Homework           |   40   |    40.0%   |
 **Total points**   | **100** | **100.0%** |
 
+## Helpful Links ##
+
+* [Python for Data Analysis]([https://theeffectbook.net](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)) by Wes McKinney
+* [QuantEcon](https://quantecon.org)
+* [SQL Basics Cheat Sheet]([https://chrisalbon.com](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf))
