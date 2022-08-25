@@ -1,1 +1,36 @@
-# Data200_Fall22
+# DATA 200: Database Systems and Data Management for Data Analytics (Fall 2022) #
+
+|  | [Eren Bilen](http://ernbilen.github.io) |
+|--------------|--------------------------------------------------------------|
+| Email | [bilene@dickinson.edu](mailto:bilene@dickinson.edu) |
+| Office | Rector North 1309 |
+| Office Hours | M 4:30-5:30pm, T 3-5pm|
+| GitHub | [ernbilen](https://github.com/ernbilen) |
+
+* **Meeting day/time**: M-Th 3:00-4:15pm, Tome 121
+* Office hours also available by appointment.
+
+## Course description ##
+
+Welcome to Data 200! This course provides an introduction to the management and manipulation of database systems as it applies to data analytics. Topics include data query languages, relational databases, NoSQL data systems, APIs/Webscraping, transforming and restructuring data representations. Upon successful completion of the course a student will be able to
+* understand the tabular data model, the relational data model,and hierarchical data model
+* retrieve data using Structured Query Language (SQL)
+* understand the client-server model for communication
+* acquire data from a spectrum of external systems, ranging from structured to unstructured systems using APIs and webscraping
+* manipulate unstructured data into meaningful representations
+* utilize the Python language for data analysis
+
+We will make extensive use of Python and Anaconda distribution to generate graphical and numerical representations of data and complete data obtaining and processing techniques via SQL before analyzing data.
+
+## Grades ##
+
+Grades will be based on the categories listed below with the corresponding weights.
+
+Assignment                   | Points |   Percent  |
+-----------------------------|--------|------------|
+Exam #1  	         |   20   |    20.0%   |
+Exam #2	           |   20   |	   20.0%   |
+Take-home Final	   |   20   |	   20.0%   |
+Homework           |   40   |    40.0%   |
+**Total points**   | **100** | **100.0%** |
+
