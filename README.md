@@ -4,7 +4,7 @@
 |--------------|--------------------------------------------------------------|
 | Email | [bilene@dickinson.edu](mailto:bilene@dickinson.edu) |
 | Office | Rector North 1309 |
-| Office Hours | M 4:30-5:30pm, T 3-4pm, W 9-10am|
+| Office Hours | M 4:30-5:30pm, T 3-4pm, <br> W 9-10am|
 | GitHub | [ernbilen](https://github.com/ernbilen) |
 
 * **Meeting day/time**: M-Th 3:00-4:15pm, Tome 121
@@ -13,7 +13,7 @@
 ## Course description ##
 
 Welcome to Data 200! This course provides an introduction to the management and manipulation of database systems as it applies to data analytics. Topics include data query languages, relational databases, NoSQL data systems, APIs/webscraping, transforming and restructuring data representations. Upon successful completion of the course a student will be able to
-* understand the tabular data model, the relational data model,and hierarchical data model
+* understand the tabular data model, the relational data model, and hierarchical data model
 * retrieve data using Structured Query Language (SQL)
 * understand the client-server model for communication
 * acquire data from a spectrum of external systems, ranging from structured to unstructured systems using APIs and webscraping
