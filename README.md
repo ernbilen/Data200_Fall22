@@ -39,4 +39,4 @@ Homework           |   40   |    40.0%   |
 * [Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf) by Wes McKinney
 * [SQL Basics](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf)
 * [QuantEcon](https://quantecon.org)
-* [Live question link](itempool.com/ernbilen/live)
+* [Live question link](https://itempool.com/ernbilen/live)
