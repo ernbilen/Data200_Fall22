@@ -4,7 +4,7 @@
 |--------------|--------------------------------------------------------------|
 | Email | [bilene@dickinson.edu](mailto:bilene@dickinson.edu) |
 | Office | Rector North 1309 |
-| Office Hours | M 4:30-5:30pm, T 3-5pm|
+| Office Hours | M 4:30-5:30pm, T 3-4pm, W 9-10am|
 | GitHub | [ernbilen](https://github.com/ernbilen) |
 
 * **Meeting day/time**: M-Th 3:00-4:15pm, Tome 121
