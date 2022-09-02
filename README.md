@@ -10,6 +10,8 @@
 
 * **Meeting day/time**: M-Th 3:00-4:15pm, Tome 121
 * Office hours also available by appointment.
+* **QRA:** Zimeng Liu [liuz@dickinson.edu](mailto:liuz@dickinson.edu)
+* **QRA Office Hours:** W-T 1:45-2:45pm @Rector North 2311
 
 ## Course description ##
 
