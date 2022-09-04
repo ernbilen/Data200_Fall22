@@ -41,6 +41,6 @@ Homework           |   40   |    40.0%   |
 
 * [Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf) by Wes McKinney
 * [SQL Basics](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf)
-* [LaTeX Cheat Sheet](https://chrisalbon.com) and [an excellent tutorial](https://www.youtube.com/watch?v=NXW4cbHBthY) by Dave Richeson
+* [LaTeX Cheat Sheet](http://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf) and [an excellent tutorial](https://www.youtube.com/watch?v=NXW4cbHBthY) by Dave Richeson
 * [QuantEcon](https://quantecon.org)
 * [Live question link](https://itempool.com/ernbilen/live)
