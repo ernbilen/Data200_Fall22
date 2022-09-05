@@ -43,7 +43,7 @@ Homework           |   40   |    40.0%   |
 - In Github Desktop -> hit Show in Finder (or explorer if you are on Windows)
 - In your local Finder window, you will see the hw00 folder, go inside, work on the assignment. (**Note**: Remember you can't double click on .ipynb files, so navigate to where this local folder is from within Jupyter Notebook) Once you are finished, save changes.
 - Go back to Github Desktop, you will see that it recognized your changes in your local file, and it’s waiting for you to commit. Go ahead and commit (you must add a short comment at this stage about what you changed)
-- Push your changes by clicking on “Push” (blue button in the middle of Github Desktop window). You are done!
+- Push your changes by clicking on “Push origin” (blue button in the middle of Github Desktop window). You are done!
 
 ## Helpful Links ##
 
