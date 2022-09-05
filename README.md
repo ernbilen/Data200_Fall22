@@ -37,6 +37,14 @@ Take-home Final	   |   20   |	   20.0%   |
 Homework           |   40   |    40.0%   |
 **Total points**   | **100** | **100.0%** |
 
+## Steps to submit your assignment on Github
+- Accept my hw invitation link (this automatically creates a clone repo just for you)
+- On this repo, hit Code -> Open with Github Desktop
+- In Github Desktop -> hit Show in Finder (or explorer if you are on Windows)
+- In your local Finder window, you will see the hw00 folder, go inside, work on the assignment. (**Note**: Remember you can't double click on .ipynb files, so navigate to where this local folder is from within Jupyter Notebook) Once you are finished, save changes.
+- Go back to Github Desktop, you will see that it recognized your changes in your local file, and it’s waiting for you to commit. Go ahead and commit (you must add a short comment at this stage about what you changed)
+- Push your changes by clicking on “Push” (blue button in the middle of Github Desktop window). You are done!
+
 ## Helpful Links ##
 
 * [Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf) by Wes McKinney
