@@ -56,5 +56,6 @@ Add and delete columns/rows in a dataframe.
 Append two dataframes with same columns, different rows.
 Merge two dataframes based on index, or using a common key variable.
 Perform a left, right, and inner join. Explain when to use one over the other.
+Perform melt and pivot to normalize data, i.e. getting tidy data from untidy data.
 Handle missing data in a pandas dataframe.
 
