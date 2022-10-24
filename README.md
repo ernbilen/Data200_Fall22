@@ -47,7 +47,7 @@ Homework           |   40   |    40.0%   |
 - Push your changes by clicking on “Push origin” (blue button in the middle of Github Desktop window). You are done!
 
 ## Suggested Datacamp courses ##
-* [Spatial Data with Geopandas](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python)
+* [Visualizing spatial data with geopandas](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python)
 * [Cluster analysis with python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python)
 * [Regular expressions in python](https://app.datacamp.com/learn/courses/regular-expressions-in-python)
 * [Software engineering and data science](https://app.datacamp.com/learn/courses/software-engineering-for-data-scientists-in-python)
