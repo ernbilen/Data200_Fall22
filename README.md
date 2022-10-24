@@ -46,6 +46,12 @@ Homework           |   40   |    40.0%   |
 - Go back to Github Desktop, you will see that it recognized your changes in your local file, and it’s waiting for you to commit. Go ahead and commit (you must add a short comment at this stage about what changes you have made.)
 - Push your changes by clicking on “Push origin” (blue button in the middle of Github Desktop window). You are done!
 
+## Suggested Datacamp courses ##
+* [Spatial Data with Geopandas](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python)
+* [Cluster analysis with python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python)
+* [Regular expressions in python](https://app.datacamp.com/learn/courses/regular-expressions-in-python)
+* [Software engineering and data science](https://app.datacamp.com/learn/courses/software-engineering-for-data-scientists-in-python)
+
 ## Helpful Links ##
 
 * [Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf) by Wes McKinney
