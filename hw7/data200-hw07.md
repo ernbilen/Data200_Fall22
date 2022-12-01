@@ -6,7 +6,7 @@
 **Dickinson College**<br/>
 **Fall 2022**<br/>
 Prof. Eren Bilen<br/>
-<font color='red'>**Due Date:** December 6 beginning of class </font>
+<font color='red'>**Due Date:** December 5 beginning of class </font>
 ---
 Enter your name in the markdown cell below.
 
