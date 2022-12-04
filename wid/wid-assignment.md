@@ -1,6 +1,6 @@
 # DATA 200: Writing in the Discipline (WiD) Assignment
 
-## Your tasks for this assignment: 
+## Your task for this assignment: 
 * Select a website or API of your choice.
 * Describe the data provider of the website/API. How do they collect the data? Where does the data come from?
 * Describe how you can use the data shared by the website/API in a data science project.
