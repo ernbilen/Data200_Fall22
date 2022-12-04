@@ -20,4 +20,4 @@ numwords | number of words in the article
 poswords | number of positive words in the article
 negwords | number of negative words in the article
 
-* Upload your draft to [https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-8NaUHs-9y9AnrNpzWbacKxUNTdFQlRHM1RPVFVFUERRWDZSQ0xJUjA1WC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-8NaUHs-9y9AnrNpzWbacKxUNTdFQlRHM1RPVFVFUERRWDZSQ0xJUjA1WC4u) by December 8, 3pm.
+* Upload your draft (as a markdown file) to [https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-8NaUHs-9y9AnrNpzWbacKxUNTdFQlRHM1RPVFVFUERRWDZSQ0xJUjA1WC4u](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-8NaUHs-9y9AnrNpzWbacKxUNTdFQlRHM1RPVFVFUERRWDZSQ0xJUjA1WC4u) by December 8, 3pm.
